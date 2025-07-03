@@ -16,3 +16,10 @@ To begin modeling lounge demand, it’s important to understand who is typically
 
 <p align="center">
   <img title="BA Lounge Tiers" alt="Alt text" src="/Assets/BA-Lounge eligibility.png" width="600" height="218">
+
+The goal is to create **a lookup table** that estimates lounge eligibility using clear, scalable categories. To do this, you’ll need to decide how to group flights and make logical assumptions.
+
+Common groups include: 
+- **Time of day**: Early morning, mid-day, evening departures.
+- **Type of route**: Short-haul vs. long-haul
+- **Region or destination group**: Europe, North America, Asia, etc.
