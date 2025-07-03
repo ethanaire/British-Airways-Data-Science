@@ -15,7 +15,7 @@ Your job is to create **a lookup table** that BA can use to estimate lounge elig
 To begin modeling lounge demand, it’s important to understand who is typically eligible for lounge access. Lounge eligibility is generally based on customer loyalty status and travel class, with different access tiers offering varying levels of amenities.
 
 <p align="center">
-  <img title="BA Lounge Tiers" alt="Alt text" src="/Assets/BA-Lounge eligibility.png" width="600" height="218">
+  <img title="BA Lounge Tiers" alt="Alt text" src="/Assets/BA-Lounge eligibility.png" width="600" height="275">
 
 The goal is to create **a lookup table** that estimates lounge eligibility using clear, scalable categories. To do this, you’ll need to decide how to group flights and make logical assumptions.
 
