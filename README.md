@@ -23,3 +23,14 @@ Common groups include:
 - **Time of day**: Early morning, mid-day, evening departures.
 - **Type of route**: Short-haul vs. long-haul
 - **Region or destination group**: Europe, North America, Asia, etc.
+
+### Task 2: Predicting customer buying behaviour
+
+The most important factor with a predictive model is the quality of the data you use to train the machine learning algorithms. For this task, you must manipulate and prepare the provided customer booking data so that you can build a high-quality predictive model.
+
+With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays).
+
+Specifically, here is how we processed this task: 
+1. Explore and prepare the dataset.
+2. Train a machine learning model.
+3. Evaluate model and present findings. 
